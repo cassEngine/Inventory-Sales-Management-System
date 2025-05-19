@@ -14,7 +14,7 @@ Each product includes:
 - `ProductID (unique)
 - `Name
 - `Price
-- `QuantityInStock
+- `Quantity in stock
 
 Supported operations:
 - Add new products
@@ -64,7 +64,7 @@ Optionally saved as: "sales_report_YYYYMMDD.txt"
 
 1. Open the project ".cbp"  file in **Code::Blocks**
 2. Build and run the project
-3. Make sure "products.txt" exists in the project directory with valid entries (or the system will create one)
+3. Make sure "sales_report_YYYYMMDD" exists in the project directory with valid entries (or the system will create one)
 
 ---
 
